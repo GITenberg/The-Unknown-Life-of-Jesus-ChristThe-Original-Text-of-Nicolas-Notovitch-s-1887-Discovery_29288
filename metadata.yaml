@@ -1,0 +1,33 @@
+_repo: The-Unknown-Life-of-Jesus-ChristThe-Original-Text-of-Nicolas-Notovitch-s-1887-Discovery_29288
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Notovitch, Nicolas
+    aliases:
+    - Notovitch, Nicholas
+    - Notowitch, Nicolas
+    - Notovich, Nikolai
+    birthdate: 1858
+    gutenberg_agent_id: '33818'
+    url: http://www.gutenberg.org/2009/agents/33818
+    wikipedia: https://en.wikipedia.org/wiki/Nicolas_Notovitch
+description: ''
+gutenberg_issued: '2009-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29288'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity and other religions -- Buddhism'
+- !lcc 'BT'
+- !lcsh 'Jesus Christ -- Biography -- Apocryphal and legendary literature'
+title: 'The Unknown Life of Jesus Christ
+
+  The Original Text of Nicolas Notovitch''s 1887 Discovery'
+url: http://www.gutenberg.org/ebooks/29288
